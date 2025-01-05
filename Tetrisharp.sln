@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tetrisharp.App", "Tetrisharp.App\Tetrisharp.App.csproj", "{711617E1-E1AC-4461-96FD-94DD9E82013E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{C4A8F62A-559D-4D14-8E6A-B104286FB545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D9416AB-CAF1-4D60-9BEF-AFCBCBE7E12E}
+	EndGlobalSection
+EndGlobal
