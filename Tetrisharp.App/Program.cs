@@ -111,6 +111,7 @@ namespace Tetrisharp.App
                         }
                         else piece.MoveRight();
                     }
+
                     if (keyInfo.Key == ConsoleKey.LeftArrow)
                     {
                         if (field.HaveEdgesOnLeft(piece))
@@ -119,6 +120,14 @@ namespace Tetrisharp.App
                         }
                         else piece.MoveLeft();
                     }
+
+                    if (keyInfo.Key == ConsoleKey.DownArrow)
+                    {
+                        Console.Beep();
+                        //piece.Gravity();
+                        //piece.Gravity();
+                    }
+
                     if (keyInfo.Key == ConsoleKey.Spacebar)
                     {
                         Console.ReadKey();

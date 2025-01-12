@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tetrisharp.App", "Tetrishar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{C4A8F62A-559D-4D14-8E6A-B104286FB545}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialToConsole", "SerialToConsole\SerialToConsole.csproj", "{32055F47-3F4D-4D40-9781-51FE70527EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviaSerial", "EnviaSerial\EnviaSerial.csproj", "{466A4F27-6927-4587-AA25-1CA5D685C49C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +21,14 @@ Global
 		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{711617E1-E1AC-4461-96FD-94DD9E82013E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32055F47-3F4D-4D40-9781-51FE70527EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32055F47-3F4D-4D40-9781-51FE70527EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32055F47-3F4D-4D40-9781-51FE70527EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32055F47-3F4D-4D40-9781-51FE70527EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{466A4F27-6927-4587-AA25-1CA5D685C49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{466A4F27-6927-4587-AA25-1CA5D685C49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{466A4F27-6927-4587-AA25-1CA5D685C49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{466A4F27-6927-4587-AA25-1CA5D685C49C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
